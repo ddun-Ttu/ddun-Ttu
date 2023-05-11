@@ -5,18 +5,23 @@
   <h3><b>:books: Tech Stack :books:</b></h3>
   <div>
     <p>Techs that I've used at least once</p>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>&nbsp
   </div>
   <br />
   <br />
   <h3>:crown: About me :crown:</h3>  
   <div>
-    <a href="junmi950918@gmail.com" target="_blank"><img src="https://img.shields.io/badge/junmi950918.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+    <a href="junmi950918@gmail.com" target="_blank"><img src="https://img.shields.io/badge/junmi950918@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/mingttu_l07/" target="_blank"><img src="https://img.shields.io/badge/mingttu_l07-E4405F?style=flat-square&logo=instagram&logoColor=white"/>&nbsp
   </div>
 </div>
